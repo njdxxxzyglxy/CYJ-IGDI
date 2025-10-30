@@ -1,0 +1,7 @@
+streamlit
+pyecharts
+pandas
+numpy
+jinja2
+requests
+openpyxl
